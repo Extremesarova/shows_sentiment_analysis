@@ -1,0 +1,14 @@
+*.db
+.ipynb_checkpoints
+venv/
+.idea/
+__pycache__
+data/
+*.bin
+*.zip
+*.tsv
+*.html
+*.csv
+*.parquet
+.vscode/
+src.egg-info/
