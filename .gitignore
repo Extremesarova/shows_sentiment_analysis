@@ -12,3 +12,4 @@ data/
 *.parquet
 .vscode/
 src.egg-info/
+saved_models/
