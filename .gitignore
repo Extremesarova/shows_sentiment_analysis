@@ -13,3 +13,4 @@ data/
 .vscode/
 src.egg-info/
 saved_models/
+.DS_Store
