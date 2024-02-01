@@ -14,3 +14,4 @@ optuna==3.4.0
 matplotlib==3.7.3
 transformers==4.35.0
 datasets==2.14.6
+shap==0.44.1
